@@ -14,6 +14,7 @@ $array_shop[2] = '鹿児島';
 $array_shop[3] = '長崎';
 $array_shop[4] = '大分';
 $array_shop[5] = '佐賀';
+$array_shop[6] = '宮崎';
 
 print_r( $array_shop );
 print('<br>');
